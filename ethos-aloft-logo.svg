@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" width="260" height="64" role="img" aria-label="Ethos Aloft">
+  <title>Ethos Aloft</title>
+  <!-- Rising plane on a gold trail -->
+  <g transform="translate(8,12)">
+    <path d="M6 32 Q20 30 32 10" fill="none" stroke="#C9A23C" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M30 8 L34 12 L27 14 L24 20 L22 18 L23 13 L18 12 L20 9 L25 11 Z" fill="#12233F"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="58" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="600" fill="#12233F" letter-spacing="-0.5">ethos aloft</text>
+  <text x="58" y="50" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#5A6473" letter-spacing="3.2">ETHOS ALOFT</text>
+</svg>
