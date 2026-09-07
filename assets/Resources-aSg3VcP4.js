@@ -1,4 +1,4 @@
-import{c as t,j as e,L as n,S as l,P as c,m as i,a as d,A as h,C as m}from"./index-DkorRgTH.js";import{S as s}from"./SectionHeading-w6Y5dXn_.js";import{c as u}from"./cabin-warm-B5as-32v.js";import{P as p}from"./plane-BG-PhfNE.js";import{G as f}from"./graduation-cap-BkeZjoGC.js";import"./Reveal-CgnkwkJT.js";/**
+import{c as t,j as e,L as n,S as l,P as c,m as i,a as d,A as h,C as m}from"./index-BEIX8QZq.js";import{S as s}from"./SectionHeading-CQmZvetY.js";import{c as u}from"./cabin-warm-B5as-32v.js";import{P as p}from"./plane-DJ3e4RHK.js";import{G as f}from"./graduation-cap-Dwb4palG.js";import"./Reveal-BxTYC8Gm.js";/**
  * @license lucide-react v0.462.0 - ISC
  *
  * This source code is licensed under the ISC license.
