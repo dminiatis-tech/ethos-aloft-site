@@ -1,1 +1,0 @@
-import{m as r,j as s}from"./index-Cu2Z9h37.js";const m=({children:t,y:i=24,delay:o=0,className:n,as:a="div"})=>{const e=r[a];return s.jsx(e,{className:n,initial:{opacity:0,y:i},whileInView:{opacity:1,y:0},viewport:{once:!0,amount:0,margin:"0px 0px -8% 0px"},transition:{duration:.6,ease:[.22,1,.36,1],delay:o},children:t})};export{m as R};

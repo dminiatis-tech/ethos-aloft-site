@@ -1,4 +1,4 @@
-import{c as r,j as e,L as i,S as s,P as o,s as n,m as a,a as d,A as l,C as c}from"./index-Cu2Z9h37.js";import{P as h}from"./plane-CCm4GaAa.js";import{G as u}from"./graduation-cap-B_6zhhra.js";/**
+import{c as r,j as e,L as i,S as s,P as o,s as n,m as a,a as d,A as l,C as c}from"./index-ZJGZuGIc.js";import{P as h}from"./plane-V0dfqw3L.js";import{G as u}from"./graduation-cap-CIu9EDwP.js";/**
  * @license lucide-react v0.462.0 - ISC
  *
  * This source code is licensed under the ISC license.
