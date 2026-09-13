@@ -15,7 +15,4 @@
 /resources
 /services
 /terms
-/training-providers
-/training-providers/the-module
-/training-providers/why-it-matters
 /who-we-serve
