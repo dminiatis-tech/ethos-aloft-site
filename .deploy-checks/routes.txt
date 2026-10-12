@@ -9,7 +9,7 @@
 /families/who-we-support
 /faq
 /operators
-/operators/formats-and-certificates
+/operators/the-half-day-format
 /operators/why-it-matters
 /privacy
 /resources
